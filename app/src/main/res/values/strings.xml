@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SlidingPuzzleGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_game">New Game</string>
+    <string name="action_help">Help</string>
+</resources>
